@@ -1,5 +1,13 @@
 # lesson-vue unit-test
 
+## How to Test
+```
+yarn test:unit tests/unit/*
+```
+"--watch" of option is automatically execute test when upload a file 
+
+---
+---
 ## Project setup
 ```
 yarn install
