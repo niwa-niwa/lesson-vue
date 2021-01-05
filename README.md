@@ -1,4 +1,4 @@
-# lesson-vue
+# lesson-vue unit-test
 
 ## Project setup
 ```
