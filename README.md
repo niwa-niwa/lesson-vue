@@ -1,6 +1,8 @@
 # lesson-vue
 
 This Repository is for testing and studying Vue.js.
+Based on Vue Test Utills
+https://vue-test-utils.vuejs.org/ja/guides/
 
 createing a branch by topics.
 
